@@ -4,9 +4,9 @@ import java.util.*;
 public class Project {
 
     public static void main(String[] args) {
-	Scanner nim = new Scanner (System.in);
-	System.out.print("Masukkan NIM Anda             = ");
-	String nimm = nim.nextLine();
+		Scanner nim = new Scanner (System.in);
+		System.out.print("Masukkan NIM Anda             = ");
+		String nimm = nim.nextLine();
         
        	Scanner nama = new Scanner (System.in);
 	System.out.print("Masukkan Nama Anda            = ");
