@@ -36,11 +36,8 @@ public class Project {
         System.out.println("Semester        :   Semester "+smtt);
         System.out.println("Sisa Semester   :   "+ssmt+" Semester");
         System.out.println("Tahun Masuk     :   Tahun "+tmskk);
-        System.out.println("Tahun Lulus     :   Tahun "+tlls);        System.out.println("Tahun Masuk     :   Tahun "+tmskk);
-        System.out.println("Tahun Lulus     :   Tahun "+tlls);        System.out.println("Tahun Masuk     :   Tahun "+tmskk);
-        System.out.println("Tahun Lulus     :   Tahun "+tlls);        System.out.println("Tahun Masuk     :   Tahun "+tmskk);
         System.out.println("Tahun Lulus     :   Tahun "+tlls);
-
+		
     }
     
 }
